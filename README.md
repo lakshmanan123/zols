@@ -2,7 +2,7 @@
  
 Zols
 ====
-
+lakshmanan
 Zols is a Light weighted Content Management System built on Spring Framework. Apart from providing everything you want from a CMS, Zols is unique in three ways:
 
 ### Embeddable CMS
